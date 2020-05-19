@@ -1,0 +1,20 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#clickme {
+	-fx-font-size: 30px;
+	-fx-background-color:rgb(255,0,0);
+	-fx-font-style: normal ;
+	-fx-font-weight: bold;
+	-fx-padding:6 6 6 6;
+}
+
+#myMessage{
+	-fx-font-size:30px;
+	-fx-background-color: black ;
+	-fx-font-weight: bold;
+	-fx-border-radius: 8;
+	-fx-padding:6 6 6 6;
+	-fx-text-fill: cyan 
+}
+.root {
+	-fx-background-color: rgb(128,255,255)
+}
